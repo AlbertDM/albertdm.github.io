@@ -1,8 +1,7 @@
----
 layout: page
 title: "Mixina"
 permalink: /albertdm.github.io-/mixeta
----
+
 
 # Mixeta
 
