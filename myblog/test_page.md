@@ -1,5 +1,5 @@
 layout: page
 title: "PAGE-TITLE"
-permalink: /albertdm.github.io-/test/
+permalink: /albertdm.github.io-/myblog/
 
 # Test page
