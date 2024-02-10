@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Mixina"
 permalink: /albertdm.github.io-/mixeta
 ---
